@@ -5,9 +5,13 @@ bit easier for the newer folks, I hope you enjoy this script!
 --------------------------------------------------------------------------------------------------------------------
 USAGE:
 git clone https://github.com/Idotechshit/TheEasyScript
+
 cd TheEasyScript
+
 sudo bash install.sh
+
 sudo python3 Easy.py
+
 --------------------------------------------------------------------------------------------------------------------
 CREDITS:
 FACEBOOK BRUTE FORCE: OSEID
