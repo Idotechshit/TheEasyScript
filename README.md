@@ -4,6 +4,7 @@ Hello my name is Azrail, I made this script to make hacking just a little
 bit easier for the newer folks, I hope you enjoy this script!
 --------------------------------------------------------------------------------------------------------------------
 USAGE:
+
 git clone https://github.com/Idotechshit/TheEasyScript
 
 cd TheEasyScript
